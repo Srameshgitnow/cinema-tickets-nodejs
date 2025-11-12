@@ -19,7 +19,7 @@ This project demonstrates clean architecture principles (service-based + depende
 
 ## 🧩 Project Structure
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ----------
 
@@ -33,11 +33,12 @@ This project demonstrates clean architecture principles (service-based + depende
 
 ## ⚙️ Installation
 
-# Clone repository
+## Clone repository
 git clone https://github.com/<your-username>/cinema-tickets-nodejs.git
+
 cd cinema-tickets-nodejs
 
-# Install dependencies
+## Install dependencies
 npm install
 
 
@@ -45,7 +46,7 @@ npm install
 
 
 ▶️ Run the Application
-# Start the Express server
+## Start the Express server
 npm start
 
 
